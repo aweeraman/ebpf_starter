@@ -2,9 +2,8 @@
 
 ## Pre-requisites
 - eBPF-enabled Linux kernel (most modern kernels)
-- Build dependencies: Python (3.6+), sudo, make
+- Build dependencies: sudo, make
 - Install required dependencies with `make install-deps`
-    - libbpf-python
     - clang
     - llvm
     - libbpf-dev
